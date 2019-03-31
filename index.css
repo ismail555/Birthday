@@ -1,0 +1,29 @@
+body {
+  background: #5cdb95;
+  height: 1000px;
+  font-size: 80%;
+  padding: 20px;
+  font-family: 'Baloo Chettan', cursive;
+  font-size: 8em;
+  overflow: hidden;
+}
+
+.center{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    line-height: 90px;
+    text-align: center;
+    margin-top: -100px;
+    transform: translateX(-50%);
+    color: #edf5e1;
+    text-shadow: 4px 3px 0 #7A7A7A;
+}
+
+input {
+    display: none;
+}
+
+div.key {
+    display: none;
+}
